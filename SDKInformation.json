@@ -1,0 +1,12 @@
+{
+    "OsVersion": "3.13.0",
+    "SDKType": "1",
+    "package": {
+        "MainPackage": {
+            "Name": "tuyaos-subdev-zg_1.0.31_zigbee_efr32mg21_zigbee-com_0.0.5.tar.gz"
+        },
+        "Packages": []
+    },
+    "toolchain_pack_url": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/zigbee_efr32mg21_0.0.5.zip",
+    "AblityValue": {}
+}

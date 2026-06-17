@@ -1,0 +1,39 @@
+{
+    "SDKType": "1",
+    "bv": "40.00",
+    "chipInfoList": [
+        "wireless SoC/silabs/Zigbee/EFR32MG21A020"
+    ],
+    "feature": "https://images.tuyacn.com/smart/sdk/0ce281f8e341efe629a8bddd1adf59da5af724e0.json",
+    "offShelfReasonCN": "",
+    "offShelfReasonEN": "",
+    "sdkDescCN": "基于EFR32MG21平台的TuyaOS zigbee SDK.",
+    "sdkDescEN": "TuyaOS zigbee SDK  based on EFR32MG21 platform.",
+    "sdkId": 346012,
+    "sdkName": "tuyaos-subdev-zg-zigbee_efr32mg21-zigbee-com",
+    "sdkVerDescCN": "1.支持wwah 2.增加压缩能力，可在 app_config.yaml 文件，通过 `lzma_enable: True ` 实现 3.增加安全 OTA 能力，可在 app_config.yaml 文件，通过 `secure_ota_enable: True ` 实现 4.入网成功更改到tc link key交互后 5.优化配网流程 6.修复long pid产测时写入成功但返回失败 7.编译生成差分文件名称由_DIFF_更改为_STU_",
+    "sdkVerDescEN": "1. Added support for wwah.\n2. Added compression capabilities, which can be achieved in the app_config.yaml file using `lzma_enable: True`.\n3. Added secure OTA capabilities, which can be achieved in the app_config.yaml file using `secure_ota_enable: True`.\n4. After successful network access, the TC link key interaction is changed.\n5. Optimized network configuration process.\n6. Fixed a issue where writing to a long PID failed during production testing.\n7. Changed the name of the generated differential file from _DIFF_ to _STU_.",
+    "sdkVersion": "1.0.31",
+    "sdkVersionFileSize": "1226653336",
+    "sdkVersionMd5": "e5439b5a0e91517a3ecd41ef5bf2dd89",
+    "sdkVersionOffShelf": false,
+    "tuyaosVersion": "TuyaOS-3.13.0",
+    "typeCode": "EmbeddedPackage-SubDevice:Zigbee",
+    "typeNameCN": "子设备开发:Zigbee设备开发包",
+    "typeNameEN": "Sub-Device Development:Zigbee Device Development Kit",
+    "quickStartDemoName": "",
+    "quickStartDemoAddr": "",
+    "typeDemoName": [],
+    "typeDemoAddr": [],
+    "package": {
+        "MainPackage": {
+            "Name": "tuyaos-subdev-zg_1.0.31_zigbee_efr32mg21_zigbee-com_0.0.5.tar.gz"
+        },
+        "Packages": [],
+        "CurrentPackage": {
+            "Name": "tuyaos-subdev-zg_1.0.31_zigbee_efr32mg21_zigbee-com_0.0.5.tar.gz"
+        }
+    },
+    "sdkVersionId": "547193",
+    "id": 346012
+}
